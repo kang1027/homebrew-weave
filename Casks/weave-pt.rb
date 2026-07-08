@@ -1,6 +1,6 @@
 cask "weave-pt" do
-  version "0.1.0"
-  sha256 "0b13accae41c080cee1940217052d5f8270c600954b0d9943eb7851873c485de"
+  version "0.1.1"
+  sha256 "42d4b29ad2836f904337a9d83e4a52620ef416fabc9b1aa9b6b1ad93af93c80d"
 
   url "https://github.com/kang1027/Weave/releases/download/v#{version}/Weave-#{version}.zip"
   name "Weave"
